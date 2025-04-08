@@ -1,4 +1,4 @@
-# ESX Blip
+# BlipsSystem
 
 Welcome, This is one of the easiest and most accessible scripts for adding customizable blips based on player jobs. simple to configure and requires minimal setup. All adjustments can be made directly in the Config file, making it perfect for server owners/Developers who want a hassle free experience.
 
@@ -10,4 +10,4 @@ Welcome, This is one of the easiest and most accessible scripts for adding custo
 ## Installation
 1. Place the script folder into your `resources`
 2. go to the `server.cfg` and ensure the script
-3. to ensure the script you need to do like this: `ensure esx_blips`
+3. to ensure the script you need to do like this: `ensure BlipsSystem`
