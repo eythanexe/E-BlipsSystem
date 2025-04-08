@@ -12,4 +12,4 @@ Welcome, This is one of the easiest and most accessible scripts for adding custo
 ## Installation
 1. Place the script folder into your `resources`
 2. go to the `server.cfg` and ensure the script
-3. to ensure the script you need to do like this: `ensure BlipsSystem`
+3. to ensure the script you need to do like this: `ensure E-BlipsSystem`
