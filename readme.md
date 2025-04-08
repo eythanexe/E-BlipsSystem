@@ -1,5 +1,7 @@
 # BlipsSystem
 
+# The Script Made For ESX Servers Only,
+
 Welcome, This is one of the easiest and most accessible scripts for adding customizable blips based on player jobs. simple to configure and requires minimal setup. All adjustments can be made directly in the Config file, making it perfect for server owners/Developers who want a hassle free experience.
 
 ## Features
